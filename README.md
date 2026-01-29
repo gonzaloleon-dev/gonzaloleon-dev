@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFB300&center=true&vCenter=true&width=600&lines=Building+systems+that+are+scalable;Building+systems+that+are+secure;Building+systems+that+are+efficient;Building+systems+that+are+maintainable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB300&center=true&vCenter=true&width=800&lines=Building+systems+that+are+scalable;Building+systems+that+are+secure;Building+systems+that+are+efficient;Building+systems+that+are+maintainable" alt="Typing SVG" />
 
 <h1 align="center">Hi, I'm Gonzalo León 👋</h1>
 <h3 align="center">Backend Software Engineer</h3>
@@ -64,12 +64,9 @@ I specialize in analyzing requirements, defining quality attributes, and designi
 
 <div align="center">
 
-<a href="https://github.com/gonzaloleon-dev">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=gonzaloleon-dev&show_icons=true&theme=transparent&bg_color=1a1a1a&title_color=ffb300&text_color=ededed&icon_color=ffb300&border_color=333333&hide_border=false" />
-</a>
-<a href="https://github.com/gonzaloleon-dev">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloleon-dev&layout=compact&theme=transparent&bg_color=1a1a1a&title_color=ffb300&text_color=ededed&border_color=333333&hide_border=false" />
-</a>
+[![Gonzalo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonzaloleon-dev&show_icons=true&theme=transparent&bg_color=1a1a1a&title_color=ffb300&text_color=ededed&icon_color=ffb300&border_color=333333&hide_border=true)](https://github.com/gonzaloleon-dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloleon-dev&layout=compact&theme=transparent&bg_color=1a1a1a&title_color=ffb300&text_color=ededed&border_color=333333&hide_border=true)](https://github.com/gonzaloleon-dev)
 
 </div>
 
