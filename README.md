@@ -17,8 +17,6 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 
 ## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)
 ![Spring](https://img.shields.io/badge/Spring-Boot%203-success?logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
