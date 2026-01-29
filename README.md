@@ -17,16 +17,21 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 
 ## 🛠️ Tech Stack
 
+
 ### Backend & Core
-- **Java**
-- **Spring Boot**
-- JavaScript
+- Java 17+
+- Spring Framework 6
+- Spring Boot 3+
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+- JavaScript (ES6+)
 - Node.js
 - Express.js
 
 ### Data & Streams
 - PostgreSQL
-- Hibernate ORM
+- JPA (Hibernate implementation)
 - Redis
 - Apache Kafka
 
@@ -38,6 +43,11 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 - Linux
 - Git
 - Grafana
+
+### Testing
+- JUnit 5
+- Mockito
+
 
 ---
 
