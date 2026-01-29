@@ -17,6 +17,16 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 
 ## 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)
+![Spring](https://img.shields.io/badge/Spring-Boot%203-success?logo=spring)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+
 
 ### Backend & Core
 - Java 17+
