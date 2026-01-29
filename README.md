@@ -26,6 +26,7 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 
 
 ### Backend & Core
