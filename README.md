@@ -79,3 +79,11 @@ public class GonzaloLeon implements BackendEngineer {
 ### Additional Experience
 - **Runtime:** `Node.js`
 - **Web:** `Express.js`, `JavaScript (ES6+)`
+
+
+
+<div align="center">
+  <br>
+  <p><b>Thanks for visiting! Feel free to reach out. 🚀</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
