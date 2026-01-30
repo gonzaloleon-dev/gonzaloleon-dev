@@ -86,3 +86,94 @@ public class GonzaloLeon implements BackendEngineer {
 - Express.js
 
 
+
+
+
+
+## 🛠 Tech Stack
+
+### ☕ Backend & Core
+
+**Language**
+- `Java 17+`
+
+**Framework**
+- `Spring Framework 6`
+
+**Bootstrapping**
+- `Spring Boot 3+`
+
+**Web & Security**
+- `Spring MVC`
+- `Spring Security`
+
+**Persistence**
+- `Spring Data JPA`
+
+---
+
+### 💾 Data & Messaging
+
+**Relational**
+- `PostgreSQL`
+- `JPA (Hibernate implementation)`
+
+**In-Memory / Cache**
+- `Redis`
+
+**Streaming & Messaging**
+- `Apache Kafka`
+
+---
+
+### 🏗️ Build & Documentation
+
+**Build Tool**
+- `Maven`
+
+**API Documentation**
+- `OpenAPI / Swagger`
+
+---
+
+### ☁️ DevOps & Infrastructure
+
+**Cloud**
+- `AWS`
+
+**Containers & Orchestration**
+- `Docker`
+- `Kubernetes`
+
+**Server & OS**
+- `Nginx`
+- `Linux`
+
+**Version Control & Observability**
+- `Git`
+- `Grafana`
+
+---
+
+### 🧪 Testing
+
+**Unit Testing**
+- `JUnit 5`
+
+**Mocking**
+- `Mockito`
+
+---
+
+### ⚡ Additional Backend Experience
+
+**Runtime**
+- `Node.js`
+
+**Web Framework**
+- `Express.js`
+
+**Language**
+- `JavaScript (ES6+)`
+
+
