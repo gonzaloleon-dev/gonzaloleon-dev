@@ -11,19 +11,12 @@
 
 ### 👨‍💻 About Me
 
-Software Engineering student focused on **Backend Development** and **Software Architecture**.  
-Interested in building **scalable, maintainable systems** and understanding **architectural trade-offs** in real-world environments.
+Software Engineering student focused on backend development and software architecture.
+I enjoy working on backend systems, including service development, API design, and data persistence.
+I’m especially interested in architectural approaches such as monoliths, modular monoliths, and microservices, and the challenges they present at scale.
 
 
 #### 🧠 Engineering Focus
-
-- Software Architecture
-- Backend Development
-- Cloud Infrastructure
-- Distributed Systems
-- Quality Attributes & Architectural Trade-offs
-
-### 🧠 Engineering Focus
 
 <p align="center">
   🏗️ <b>Software Architecture</b> &nbsp;|&nbsp; ☁️ <b>Cloud Infrastructure</b> &nbsp;|&nbsp; 🔄 <b>Distributed Systems</b>
@@ -32,7 +25,7 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 </p>
 
 
-### 🧠 Engineering Focus
+#### 🧠 Engineering Focus
 
 ```java
 public class GonzaloLeon {
@@ -46,15 +39,7 @@ public class GonzaloLeon {
 }
 ```
 
-### 🧠 Engineering Focus
 
-<p align="left">
-  <img src="https://img.shields.io/badge/FOCUS-Software%20Architecture-05122A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FOCUS-Distributed%20Systems-05122A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FOCUS-Cloud%20Infrastructure-05122A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-05122A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FOCUS-Quality%20Attributes-05122A?style=flat-square"/>
-</p>
 
 ### 🛠 Tech Stack
 
