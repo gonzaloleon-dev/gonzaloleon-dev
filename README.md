@@ -50,87 +50,31 @@ public class GonzaloLeon implements BackendEngineer {
 </p>
 
 ### Backend & Core
-
-**Language**
-- `Java 17+`
-
-**Framework**
-- `Spring Framework 6`
-
-**Bootstrapping**
-- `Spring Boot 3+`
-
-**Web & Security**
-- `Spring MVC`
-- `Spring Security`
-
-**Persistence**
-- `Spring Data JPA`
-
----
+- **Language:** `Java 17+`
+- **Framework:** `Spring Framework 6`
+- **Boot:** `Spring Boot 3+`
+- **Modules:** `Spring MVC`, `Spring Data JPA`, `Spring Security`
 
 ### Data & Messaging
-
-**Relational**
-- `PostgreSQL`
-- `JPA (Hibernate implementation)`
-
-**In-Memory / Cache**
-- `Redis`
-
-**Streaming & Messaging**
-- `Apache Kafka`
-
----
+- **Relational:** `PostgreSQL`, `JPA (Hibernate)`
+- **NoSQL:** `Redis`
+- **Streaming:** `Apache Kafka`
 
 ### Build & Documentation
-
-**Build Tool**
-- `Maven`
-
-**API Documentation**
-- `OpenAPI / Swagger`
-
----
+- **Build:** `Maven`
+- **Docs:** `OpenAPI` / `Swagger`
 
 ### DevOps & Infrastructure
-
-**Cloud**
-- `AWS`
-
-**Containers & Orchestration**
-- `Docker`
-- `Kubernetes`
-
-**Server & OS**
-- `Nginx`
-- `Linux`
-
-**Version Control & Observability**
-- `Git`
-- `Grafana`
-
----
+- **Cloud:** `AWS`
+- **Containers:** `Docker`, `Kubernetes`
+- **Server:** `Nginx`, `Linux`
+- **Tools:** `Git`, `Grafana`
 
 ### Testing
+- **Unit:** `JUnit 5`
+- **Mocking:** `Mockito`
+- **API:** `Postman`
 
-**Unit Testing**
-- `JUnit 5`
-
-**Mocking**
-- `Mockito`
-
----
-
-### Additional Backend Experience
-
-**Runtime**
-- `Node.js`
-
-**Web Framework**
-- `Express.js`
-
-**Language**
-- `JavaScript (ES6+)`
-
-
+### Additional Experience
+- **Runtime:** `Node.js`
+- **Web:** `Express.js`, `JavaScript (ES6+)`
