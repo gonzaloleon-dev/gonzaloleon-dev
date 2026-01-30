@@ -37,14 +37,6 @@ public class GonzaloLeon implements BackendEngineer {
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)
-![Spring](https://img.shields.io/badge/Spring-Boot%203-success?logo=spring)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot_3+-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -98,38 +90,23 @@ public class GonzaloLeon implements BackendEngineer {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>☕ Backend & Core</h3>
-      <ul>
-        <li>Java 17+</li>
-        <li>Spring Boot 3+</li>
-        <li>Spring Security 6</li>
-        <li>Spring Data JPA</li>
-        <li><b>Maven / Gradle</b></li> </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>💾 Data & Infra</h3>
-      <ul>
-        <li>PostgreSQL</li>
-        <li>Redis (Cache)</li>
-        <li>Apache Kafka</li>
-        <li>Docker & Compose</li>
-        <li>AWS (EC2/S3)</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🧪 Testing & Tools</h3>
-      <ul>
-        <li>JUnit 5 & Mockito</li>
-        <li>Postman / Swagger</li>
-        <li>Git & GitHub Actions</li>
-        <li>Linux Terminal</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ☕ Backend & Core
+- **Lenguajes:** Java 17+, JavaScript (ES6+)
+- **Frameworks:** Spring Boot 3, Spring Security 6, Spring Data JPA, Spring MVC
+- **Tools:** Maven, Swagger/OpenAPI
+
+### 💾 Data & Event Streaming
+- **Relacional:** PostgreSQL, MySQL (Hibernate/JPA)
+- **NoSQL & Caching:** Redis
+- **Streaming:** Apache Kafka
+
+### ☁️ Infrastructure & DevOps
+- **Cloud:** AWS (EC2/S3 basics)
+- **Contenedores:** Docker, Docker Compose, Kubernetes (Basics)
+- **OS & Tools:** Linux Terminal, Git, Nginx
+
+### 🧪 Quality & Testing
+- **Unit Testing:** JUnit 5, Mockito
 
 
 ### 📊 GitHub Stats
