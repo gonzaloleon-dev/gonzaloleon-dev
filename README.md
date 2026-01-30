@@ -57,7 +57,7 @@ public class GonzaloLeon implements BackendEngineer {
 
 ### Data & Messaging
 - **Relational:** `PostgreSQL`, `JPA (Hibernate)`
-- **NoSQL:** `Redis`
+- **Cache:** `Redis`
 - **Streaming:** `Apache Kafka`
 
 ### Build & Documentation
@@ -67,7 +67,8 @@ public class GonzaloLeon implements BackendEngineer {
 ### DevOps & Infrastructure
 - **Cloud:** `AWS`
 - **Containers:** `Docker`, `Kubernetes`
-- **Server:** `Nginx`, `Linux`
+- **Web / Reverse Proxy:** `Nginx`
+- **Server:** `Linux`
 - **Tools:** `Git`, `Grafana`
 
 ### Testing
