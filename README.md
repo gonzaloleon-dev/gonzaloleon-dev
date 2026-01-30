@@ -5,17 +5,6 @@
 <h1 align="center">Hi, I'm Gonzalo León 👋</h1>
 <h3 align="center">Backend Software Engineer</h3>
 
-<p align="center">
-  <a href="https://gonzalo-leon.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FFB300?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gonzalo-león-0105652a4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ing.gonzaloleon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 </div>
 
@@ -23,12 +12,18 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering student** in the final stage of my degree, passionate about **Backend Development** and **Software Architecture**. 
+Software Engineering student focused on **Backend Development** and **Software Architecture**.  
+Interested in building **scalable, maintainable systems** and understanding **architectural trade-offs** in real-world environments.
 
-I specialize in analyzing requirements, defining quality attributes, and designing robust architectures. My focus is on **Architectural Trade-offs**, **Distributed Systems**, and **High Scalability**.
+---
 
-- **Focus:** Microservices, Modular Monoliths, CQRS, Hexagonal Architecture.
-- **Goal:** Building maintainable, well-structured systems.
+## 🧠 Engineering Focus
+
+- Software Architecture
+- Backend Development
+- Cloud Infrastructure
+- Distributed Systems
+- Quality Attributes & Architectural Trade-offs
 
 ---
 
