@@ -9,7 +9,7 @@
 </div>
 
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 Software Engineering student focused on backend development and software architecture. 
 
@@ -17,7 +17,7 @@ I enjoy working on backend systems, including service development, API design, a
 
 I’m especially interested in architectural approaches such as monoliths, modular monoliths, and microservices, and the challenges they present at scale.
 
-#### 🧠 Engineering Focus
+### 🧠 Engineering Focus
 
 ```java
 public class GonzaloLeon implements BackendEngineer {
@@ -35,31 +35,48 @@ public class GonzaloLeon implements BackendEngineer {
 
 
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
-  
-**Backend & Core**  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)
+![Spring](https://img.shields.io/badge/Spring-Boot%203-success?logo=spring)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 
-**Data & Streams**  
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+### Backend & Core
+- Java 17+
+- Spring Framework 6
+- Spring Boot 3+
+- Spring MVC
+- Spring Data JPA
+- Spring Security
 
-**DevOps & Infrastructure**  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+### Data & Streams
+- PostgreSQL
+- JPA (Hibernate implementation)
+- Redis
+- Apache Kafka
 
-</div>
+### DevOps & Infrastructure
+- AWS
+- Docker
+- Kubernetes
+- Nginx
+- Linux
+- Git
+- Grafana
+
+### Testing
+- JUnit 5
+- Mockito
+
+### Additional Backend Experience
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+
 
 
 
