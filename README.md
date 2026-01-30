@@ -14,7 +14,6 @@
 Software Engineering student focused on **Backend Development** and **Software Architecture**.  
 Interested in building **scalable, maintainable systems** and understanding **architectural trade-offs** in real-world environments.
 
----
 
 ## 🧠 Engineering Focus
 
