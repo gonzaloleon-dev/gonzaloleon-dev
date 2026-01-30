@@ -81,32 +81,7 @@ public class GonzaloLeon implements BackendEngineer {
 - Express.js
 
 
-### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot_3+-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-### ☕ Backend & Core
-- **Lenguajes:** Java 17+, JavaScript (ES6+)
-- **Frameworks:** Spring Boot 3, Spring Security 6, Spring Data JPA, Spring MVC
-- **Tools:** Maven, Swagger/OpenAPI
-
-### 💾 Data & Event Streaming
-- **Relacional:** PostgreSQL, MySQL (Hibernate/JPA)
-- **NoSQL & Caching:** Redis
-- **Streaming:** Apache Kafka
-
-### ☁️ Infrastructure & DevOps
-- **Cloud:** AWS (EC2/S3 basics)
-- **Contenedores:** Docker, Docker Compose, Kubernetes (Basics)
-- **OS & Tools:** Linux Terminal, Git, Nginx
-
-### 🧪 Quality & Testing
-- **Unit Testing:** JUnit 5, Mockito
 
 
 ### 📊 GitHub Stats
