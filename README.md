@@ -78,6 +78,47 @@ public class GonzaloLeon implements BackendEngineer {
 - Express.js
 
 
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3+-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>☕ Backend & Core</h3>
+      <ul>
+        <li>Java 17+</li>
+        <li>Spring Boot 3+</li>
+        <li>Spring Security 6</li>
+        <li>Spring Data JPA</li>
+        <li><b>Maven / Gradle</b></li> </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>💾 Data & Infra</h3>
+      <ul>
+        <li>PostgreSQL</li>
+        <li>Redis (Cache)</li>
+        <li>Apache Kafka</li>
+        <li>Docker & Compose</li>
+        <li>AWS (EC2/S3)</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🧪 Testing & Tools</h3>
+      <ul>
+        <li>JUnit 5 & Mockito</li>
+        <li>Postman / Swagger</li>
+        <li>Git & GitHub Actions</li>
+        <li>Linux Terminal</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ### 📊 GitHub Stats
