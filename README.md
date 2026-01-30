@@ -56,11 +56,15 @@ public class GonzaloLeon implements BackendEngineer {
 - Spring Data JPA
 - Spring Security
 
-### Data & Streams
+### Data & Messaging
 - PostgreSQL
 - JPA (Hibernate implementation)
 - Redis
 - Apache Kafka
+
+### Build & Documentation
+- Maven
+- OpenAPI / Swagger
 
 ### DevOps & Infrastructure
 - AWS
@@ -79,9 +83,6 @@ public class GonzaloLeon implements BackendEngineer {
 - JavaScript (ES6+)
 - Node.js
 - Express.js
-
-
-
 
 
 ### 📊 GitHub Stats
