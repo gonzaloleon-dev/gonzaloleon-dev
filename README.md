@@ -23,7 +23,38 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 - Distributed Systems
 - Quality Attributes & Architectural Trade-offs
 
+### 🧠 Engineering Focus
 
+<p align="center">
+  🏗️ <b>Software Architecture</b> &nbsp;|&nbsp; ☁️ <b>Cloud Infrastructure</b> &nbsp;|&nbsp; 🔄 <b>Distributed Systems</b>
+  <br>
+  ☕ <b>Backend Development</b> &nbsp;|&nbsp; 🛡️ <b>Quality Attributes & Trade-offs</b>
+</p>
+
+
+### 🧠 Engineering Focus
+
+```java
+public class GonzaloLeon {
+    String[] focus = {
+        "Software Architecture",
+        "Distributed Systems",
+        "Cloud Infrastructure",
+        "Quality Attributes",
+        "Backend Development"
+    };
+}
+```
+
+### 🧠 Engineering Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Architecture-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Distributed%20Systems-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Cloud%20Infrastructure-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Backend%20Development-05122A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FOCUS-Quality%20Attributes-05122A?style=flat-square"/>
+</p>
 
 ### 🛠 Tech Stack
 
