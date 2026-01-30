@@ -50,49 +50,6 @@ public class GonzaloLeon implements BackendEngineer {
 </p>
 
 ### Backend & Core
-- Java 17+
-- Spring Framework 6
-- Spring Boot 3+
-- Spring MVC
-- Spring Data JPA
-- Spring Security
-
-### Data & Messaging
-- PostgreSQL
-- JPA (Hibernate implementation)
-- Redis
-- Apache Kafka
-
-### Build & Documentation
-- Maven
-- OpenAPI / Swagger
-
-### DevOps & Infrastructure
-- AWS
-- Docker
-- Kubernetes
-- Nginx
-- Linux
-- Git
-- Grafana
-
-### Testing
-- JUnit 5
-- Mockito
-
-### Additional Backend Experience
-- JavaScript (ES6+)
-- Node.js
-- Express.js
-
-
-
-
-
-
-## 🛠 Tech Stack
-
-### ☕ Backend & Core
 
 **Language**
 - `Java 17+`
@@ -112,7 +69,7 @@ public class GonzaloLeon implements BackendEngineer {
 
 ---
 
-### 💾 Data & Messaging
+### Data & Messaging
 
 **Relational**
 - `PostgreSQL`
@@ -126,7 +83,7 @@ public class GonzaloLeon implements BackendEngineer {
 
 ---
 
-### 🏗️ Build & Documentation
+### Build & Documentation
 
 **Build Tool**
 - `Maven`
@@ -136,7 +93,7 @@ public class GonzaloLeon implements BackendEngineer {
 
 ---
 
-### ☁️ DevOps & Infrastructure
+### DevOps & Infrastructure
 
 **Cloud**
 - `AWS`
@@ -155,7 +112,7 @@ public class GonzaloLeon implements BackendEngineer {
 
 ---
 
-### 🧪 Testing
+### Testing
 
 **Unit Testing**
 - `JUnit 5`
@@ -165,7 +122,7 @@ public class GonzaloLeon implements BackendEngineer {
 
 ---
 
-### ⚡ Additional Backend Experience
+### Additional Backend Experience
 
 **Runtime**
 - `Node.js`
