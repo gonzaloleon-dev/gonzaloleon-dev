@@ -2,9 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFB300&center=true&vCenter=true&width=800&lines=Building+systems+that+are+scalable;Building+systems+that+are+secure;Building+systems+that+are+efficient;Building+systems+that+are+maintainable" alt="Typing SVG" />
 
-<h1 align="center">Hi, I'm Gonzalo León 👋</h1>
-<h3 align="center">Backend Software Engineer</h3>
-
+<h3 align="center">Hi, I'm Gonzalo León 👋</h3>
+<h4 align="center">Backend Software Engineer</h4>
 
 </div>
 
@@ -85,5 +84,5 @@ public class GonzaloLeon implements BackendEngineer {
 <div align="center">
   <br>
   <p><b>Thanks for visiting! Feel free to reach out. 🚀</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,30363D&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,30363D&height=100&section=footer&v=1"/>
 </div>
