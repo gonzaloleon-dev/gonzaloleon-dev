@@ -11,8 +11,10 @@
 
 ### 👨‍💻 About Me
 
-Software Engineering student focused on backend development and software architecture. <br>
-I enjoy working on backend systems, including service development, API design, and data persistence. <br>
+Software Engineering student focused on backend development and software architecture. 
+
+I enjoy working on backend systems, including service development, API design, and data persistence. 
+
 I’m especially interested in architectural approaches such as monoliths, modular monoliths, and microservices, and the challenges they present at scale.
 
 
