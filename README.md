@@ -85,9 +85,3 @@ public class GonzaloLeon implements BackendEngineer {
   <p><b>Thanks for visiting! Feel free to reach out. 🚀</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,30363D&height=100&section=footer&v=1"/>
 </div>
-
-<div align="center">
-  <br>
-  <p><b>Thanks for visiting! Feel free to reach out. 🚀</b></p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFD700,ED8B00&height=120&section=footer&update=forced_refresh_now"/>
-</div>
