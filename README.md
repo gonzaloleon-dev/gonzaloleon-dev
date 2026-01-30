@@ -23,7 +23,7 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 - Distributed Systems
 - Quality Attributes & Architectural Trade-offs
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -51,7 +51,7 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -77,7 +77,7 @@ Interested in building **scalable, maintainable systems** and understanding **ar
 ![](https://nirzak-streak-stats.vercel.app/?user=gonzaloleon-dev&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloleon-dev&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=gonzaloleon-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
