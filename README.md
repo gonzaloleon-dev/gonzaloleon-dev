@@ -17,27 +17,19 @@ I enjoy working on backend systems, including service development, API design, a
 
 I’m especially interested in architectural approaches such as monoliths, modular monoliths, and microservices, and the challenges they present at scale.
 
-
-#### 🧠 Engineering Focus
-
-<p align="center">
-  🏗️ <b>Software Architecture</b> &nbsp;|&nbsp; ☁️ <b>Cloud Infrastructure</b> &nbsp;|&nbsp; 🔄 <b>Distributed Systems</b>
-  <br>
-  ☕ <b>Backend Development</b> &nbsp;|&nbsp; 🛡️ <b>Quality Attributes & Trade-offs</b>
-</p>
-
-
 #### 🧠 Engineering Focus
 
 ```java
-public class GonzaloLeon {
-    String[] focus = {
+public class GonzaloLeon implements BackendEngineer {
+    
+    // Core architectural interests 🚀
+    List<String> mainFocus = List.of(
         "Software Architecture",
         "Distributed Systems",
         "Cloud Infrastructure",
         "Quality Attributes",
         "Backend Development"
-    };
+    );
 }
 ```
 
